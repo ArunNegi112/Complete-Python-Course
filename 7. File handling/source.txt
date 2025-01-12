@@ -1,0 +1,2 @@
+this is source file 
+imma copy this to destination text file 

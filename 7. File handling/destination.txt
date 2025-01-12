@@ -1,0 +1,5 @@
+This is my destination file ill write content of souce here
+this is source file 
+imma copy this to destination text file this is source file 
+imma copy this to destination text file this is source file 
+imma copy this to destination text file 

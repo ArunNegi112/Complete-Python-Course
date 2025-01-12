@@ -1,0 +1,7 @@
+This is new text wrttin through ".write" function next line after this would be below this because i've used backslash+n key
+see
+This is the new line of text i wrote with append mode 
+This is me writing multiple line
+Fist line
+Second line
+Third line

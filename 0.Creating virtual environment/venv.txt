@@ -1,0 +1,9 @@
+# Creating an environment 
+in terminal write :
+    python -m nameofenv nameoffoldertokeepenv
+
+
+# Creating requirements file 
+create a requirements.txt file in which you gonna keep your package names listed
+
+in terminal, write : pip install -r requirements.txt
