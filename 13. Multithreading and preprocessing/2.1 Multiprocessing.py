@@ -16,7 +16,7 @@ def print_alpha():
     
 
 if __name__ == "__main__" :     
-# this block is essential when using multiprocessing to avoid unintended behavior.
+# This block tells the system to start executing the file from here
     ## Creating processes 
     p1 = multiprocessing.Process(target = print_numbers)   # inside 'target' we assign our function
     p2 = multiprocessing.Process(target = print_alpha)
