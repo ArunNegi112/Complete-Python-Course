@@ -1,6 +1,9 @@
 # Understanding HTTPS verbs : get, post
 from flask import Flask,render_template,request
-
+'''
+POST: Used to submit data (e.g., form submissions).
+GET: Used to retrieve data (e.g., accessing the form).
+'''
 app = Flask(__name__)
 
 @app.route('/',methods = ['GET'])  #for home page
