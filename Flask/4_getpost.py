@@ -19,6 +19,8 @@ def form():
         return f"Form submitted! Your name is {name} and your password is {password}."
     return render_template('form.html')  # Render the form for GET requests
 
+# request.form['key']: Fetches the value of the key; raises a KeyError if the key does not exist.
+# request.form.get('key'): Fetches the value of the key; returns None if the key does not exist.
 
 if __name__ == "__main__":
     app.run(debug=True)
