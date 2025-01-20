@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+
+<h2>
+    {% for key,value in result.items() %}
+    {# This is comment, it wont get shown in output #}
+    {{ key  }}
+    {{ value }}
+
+    {% endfor %}  {# To stop iteration we do, this, if there was any other loop/condition we write % endwhile % etc #}
+</h2>
