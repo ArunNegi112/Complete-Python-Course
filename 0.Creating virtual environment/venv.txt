@@ -1,6 +1,6 @@
 # Creating an environment 
 in terminal write :
-    python -m nameofenv nameoffoldertokeepenv
+    python -m venv name_of_env
 
 
 # Creating requirements file 
