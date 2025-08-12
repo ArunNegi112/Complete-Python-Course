@@ -1,0 +1,5 @@
+16-01-2025 02:19:42 - Arithmetic app - DEBUG - 1 and 2 are getting added
+16-01-2025 02:19:42 - Arithmetic app - DEBUG - 2 is getting subtracted from 1
+16-01-2025 02:19:42 - Arithmetic app - DEBUG - 1 and 2 are getting multiplied
+16-01-2025 02:19:42 - Arithmetic app - DEBUG - Dividing 1 / 2 = 0.5
+16-01-2025 02:19:42 - Arithmetic app - ERROR - Division by zero error
